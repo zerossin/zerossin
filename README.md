@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 <div>
  <a href="https://zerossin.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
- <a><img src="https://img.shields.io/badge/koreaminsoo@khu.ac.kr-F34538?style=flat&logo=gmail&logoColor=ffffff"/></a>
+ <a><img src="https://img.shields.io/badge/pluqum@gmail.com-F34538?style=flat&logo=gmail&logoColor=ffffff"/></a>
 </div>
 
 -----
