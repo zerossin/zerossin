@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=pulqum&color=00ff7b)
+![header](https://capsule-render.vercel.app/api?type=waving&text=cherossin&color=00ff7b)
 
 ### Hi there 👋
 
 🌱 I’m currently learning ...
 <div>
- <a href="https://pulqum.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
+ <a href="https://cherossin.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
 </div>
 
 -----
@@ -39,11 +39,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-![pulqum's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pulqum&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
+![cherossin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cherossin&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
 
 -----
 #### :pencil2: Study log
 
-![pulqum's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulqum&show_icons=true&title_color=00ff7b&theme=radical)
+![cherossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherossin&show_icons=true&title_color=00ff7b&theme=radical)
 
 </div>
