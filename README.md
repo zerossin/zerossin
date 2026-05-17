@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning ...
 <div>
- <a href="https://cherossin.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
+ <a href="https://zerossin.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
 </div>
 
 -----
@@ -39,11 +39,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-![cherossin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cherossin&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
+![zerossin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zerossin&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
 
 -----
 #### :pencil2: Study log
 
-![cherossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherossin&show_icons=true&title_color=00ff7b&theme=radical)
+![zerossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerossin&show_icons=true&title_color=00ff7b&theme=radical)
 
 </div>
