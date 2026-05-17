@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning ...
 <div>
- <a href="https://zerossin.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
+ <a href="https://zerossin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/>
+ </a>
+ <a href="mailto:zerossin.dev@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+ </a>
 </div>
 
 -----
