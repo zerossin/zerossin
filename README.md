@@ -44,11 +44,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-![zerossin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zerossin&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
-
------
-#### :pencil2: Study log
-
-![zerossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerossin&show_icons=true&title_color=00ff7b&theme=radical)
-
-</div>
+![zerossin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerossin&theme=tokyonight)
