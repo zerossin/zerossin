@@ -29,11 +29,14 @@ Here are some ideas to get you started:
  </a>
 </div>
 
------
+---
+
 ####  :clipboard: Once I've Used
 
 <div>
   <img src="https://skillicons.dev/icons?i=python,postgres,docker,github,git" />
 </div>
 
-![zerossin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerossin&theme=tokyonight)
+---
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerossin&theme=github_dark)
