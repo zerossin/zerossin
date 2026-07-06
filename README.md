@@ -33,11 +33,7 @@ Here are some ideas to get you started:
 ####  :clipboard: Once I've Used
 
 <div>
- <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
- <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
- <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
- <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,github,git" />
 </div>
 
 ![zerossin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerossin&theme=tokyonight)
